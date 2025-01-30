@@ -1,1 +1,1 @@
-My first Kotlin app :)
+My first Kotlin app created in 2023 :)
